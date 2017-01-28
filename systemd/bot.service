@@ -1,0 +1,10 @@
+[Unit]
+Description=Facebook bot
+After=network.service
+
+[Service]
+#Type=oneshot
+ExecStart=/home/pi/start.sh
+
+[Install]
+WantedBy=multi-user.target
