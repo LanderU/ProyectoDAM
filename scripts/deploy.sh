@@ -12,7 +12,7 @@ sudo mv /home/pi/ProyectoDAM/scripts/start.sh /home/pi/
 
 # Enable the servicd
 sudo systemctl enable bot.service
-sudo sytemctl start bot.service
+sudo systemctl start bot.service
 
 # Bot running
 whiptail --title "Correcto" --msgbox "Tu bot está en marcha" 8 78
