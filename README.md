@@ -1,5 +1,15 @@
 # ProyectoDAM
 
+## Descargar Raspbian
+
+https://www.raspberrypi.org/downloads/raspbian/
+
+## Flashear la tarjeta SD
+
+Puedes usar los scripts que hay en el siguiente repositorio:
+
+* https://github.com/LanderU/ScriptsRPi2-BBB
+
 ## Compilar No-Ip Raspberry Pi
 
 ### Ip estática
