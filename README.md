@@ -47,7 +47,7 @@ Cargamos el demonio:
 sudo update-rc.d noip2 defaults
 ```
 
-Al realizar la instalación nos preguntará por el usuario y el dominio, recuerda darte de alta en la página [NoIp](http://www.noip.com/).
+Al realizar la instalación nos preguntará por el usuario y el dominio, recuerda darte de alta en la página [No-Ip](http://www.noip.com/).
 
 # Forwarding
 
@@ -74,7 +74,7 @@ Puedes consultar el estado del servidor mediante el comando:
 sudo systemctl status -l bot.service
 ```
 
-Sí la salida es algo así:
+Ejemplo de bot en marcha:
 
 ```
 pi@raspberrypi:~/ProyectoDAM/scripts $ sudo systemctl status -l bot.service
