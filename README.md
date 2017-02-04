@@ -42,7 +42,7 @@ sudo nano /etc/init.d/noip2
 Añadimos el siguiente contenido:
 
 ```
-#! /bin/bash
+#!/bin/bash
 
 sudo /usr/local/bin/noip2
 ```
